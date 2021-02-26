@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Donut/static/js/main.d73ae43c.chunk.js",
+    "main.js.map": "/Donut/static/js/main.d73ae43c.chunk.js.map",
+    "runtime-main.js": "/Donut/static/js/runtime-main.a87b3e10.js",
+    "runtime-main.js.map": "/Donut/static/js/runtime-main.a87b3e10.js.map",
+    "static/js/2.45d2445c.chunk.js": "/Donut/static/js/2.45d2445c.chunk.js",
+    "static/js/2.45d2445c.chunk.js.map": "/Donut/static/js/2.45d2445c.chunk.js.map",
+    "static/js/3.20d6e631.chunk.js": "/Donut/static/js/3.20d6e631.chunk.js",
+    "static/js/3.20d6e631.chunk.js.map": "/Donut/static/js/3.20d6e631.chunk.js.map",
+    "index.html": "/Donut/index.html",
+    "static/js/2.45d2445c.chunk.js.LICENSE.txt": "/Donut/static/js/2.45d2445c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87b3e10.js",
+    "static/js/2.45d2445c.chunk.js",
+    "static/js/main.d73ae43c.chunk.js"
+  ]
+}
