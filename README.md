@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Donut-Clicker Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Fair use disclaimer this website is for educational purposes only.**
 
-## Available Scripts
+A Cookie clicker like Game made with ReactJS.
 
-In the project directory, you can run:
+## Project infos
 
-### `npm start`
+- **Type of challenge**: Learning ReactJS Project
+- **Duration**: 4 days
+- **Type challenge**: solo
+- **Deadline**: 26-02-2021 17:00
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What is this project about :grey_question:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This is a web development project carried out with the BECODE training to learn various aspects and coding techniques. It consists of creating a Cookie clicker game using ReactJS to get familiar with it.
 
-### `npm test`
+## Objectif
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- You start the game with a "Cookie or ..." to click on. Clicking on it will increase your score by one
 
-### `npm run build`
+- Once you reach a certain amount of cookie (eg.: 10). You can buy your first building. Buildings allow you to generate cookie automatically
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- The more you buy a certain type of building, the more it becomes expensive.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- You gradually unlock new building as your cookie production grows.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Pre-requisite :bowtie:
 
-### `npm run eject`
+What you need to get started ...
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- basics in **Javascript**
+- basics in **RactJS language**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## What did I used ?
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- ReactJS
+- ChakraUI
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Strength
 
-## Learn More
+- A clickable Donut that increases the score.
+- Automatic scrore incresing depending of the invertory.
+- A store where you can buy items or persons that will give you bonuses.
+- Bonuses can be bought only if you have enough cookies or Donuts.
+- **Game Theme** the css style of the game is based on the simpsons.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Weaknesse
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- The items price doesnt increase each time we buy one.
 
-### Code Splitting
+## Advice
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- (Here you can write advices and comments about the project).
 
-### Analyzing the Bundle Size
+## Visual
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img src="./public/ScreenshotDonutClicker.png" alt="Donut Clicker" width="700">
 
-### Making a Progressive Web App
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Sifedine** _alias_ [@Sifedine-Hajji](https://github.com/Sifedine-Hajji?tab=repositories).
