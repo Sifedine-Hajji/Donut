@@ -17,6 +17,7 @@ export default function CookieScore({ user, onScoreIncrement }) {
         h="400px"
         mt="150px"
         src="https://urlz.fr/eZ5S"
+        cursor="pointer"
       />
     </GameWrapper>
   );
