@@ -1,5 +1,7 @@
 # Donut-Clicker Project
 
+[link to the Donut clicker game](https://sifedine-hajji.github.io/Donut/)
+
 **Fair use disclaimer this website is for educational purposes only.**
 
 A Cookie clicker like Game made with ReactJS.
